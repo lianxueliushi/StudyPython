@@ -1,0 +1,5 @@
+AS%Play%
+AS%Pause%
+AS%Stop%
+AS%NPlayDirect%1%
+AS%NOpen%1%
